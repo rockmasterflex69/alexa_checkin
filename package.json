@@ -1,0 +1,26 @@
+{
+  "name": "alexa_checkin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockmasterflex69/alexa_checkin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockmasterflex69/alexa_checkin/issues"
+  },
+  "homepage": "https://github.com/rockmasterflex69/alexa_checkin#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14",
+    "aws-sdk": "^2.126.0",
+    "moment": "^2.18.1",
+    "random-number": "0.0.9",
+    "sort-json-array": "^0.1.7"
+  }
+}

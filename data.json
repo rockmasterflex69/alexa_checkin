@@ -1,0 +1,31 @@
+{
+    "uverse": {
+        "info": "A T and T U-verse is unlike anything you've seen before. Utilizing the latest technology, U-verse brings customers all across the country reliable TV, Internet, and Home Phone, backed by the worry-free 99% reliability of the A T and T network. ",
+        "more": "Using fiber-optics, which can transmit data more effectively than cable lines, U-verse provides superior HD picture for TV, incredible Internet speeds, and advanced home phone options. A T and T has carefully created a number of U-verse packages that include the home services you rely on. Speak with a knowledgeable representative about your options and find the U-verse bundle that works for your family. " 
+    },
+    "directv": {
+        "info": "Thanks to DIRECTV, your whole home can enjoy more full-time HD channels* than any other satellite provider. DIRECTV has over 200 full-time HD channels and also offers 4K: the best picture format available. ",
+        "more": "Choose DIRECTV and stream thousands of shows and movies On Demand, including premium channels like HBO, STARZ, SHOWTIME, EPSN, AMC, Disney, and more! "
+    },
+    "directvnow" : {
+        "info": "Start streaming broadcast TV now. Plans start at just 35 US dollars per month. ",
+        "more": "No annual contract or credit check, Access to 120+ broadcast tv channels with Gotta Have It package, Up to 15,000 on demand titles. "
+    },
+    "wireless" : {
+        "info": "A T and T has great wireless service for your busy, data-driven life. Get endless entertainment and never worry about overages again when you choose from two different Unlimited Data plans. Stay up to date on technology with A T and T Next and A T and T Next Every Year plans which let you upgrade your smartphone for the latest and greatest device. ",
+        "more": "Never pay overages again with our best A T and T unlimited data deals. Check out A T and T's best unlimited plans: HBO Included with Unlimited Plus HBO® credit starts w/in 2 bills. 10GB Mobile Hotspot per line with Unlimited Plus. Unlimited Data, Talk/Text. "
+    },
+    "digitallife": {
+        "info": "Put your mind at ease with a safe, smart home. Help protect and manage your home from virtually anywhere. ",
+        "more": "The Digital Life app is simple, intuitive and easy-to-use, so home is always in the palm of your hand. Or bag. Or pocket. "
+    },
+    "whp": {
+        "info": "A T and T Wireless Home Phone is a low-cost alternative to traditional home phone service, works over the A T and T wireless network, and uses your existing home phone number and handsets. It's 20 US Dollars per month for unlimited nationwide calling. So, no more watching minutes or worrying about long distance charges.",
+        "more": "Get the A T and T Wireless Home Phone device for FREE with a new two-year contract. That's a $99.99 value! For service, enjoy unlimited nationwide calling for $20 per month. Plus, get these great calling features at no extra charge: Call waiting, call number ID, voicemail, three-way calling, call forwarding. "
+    },
+    "voip": {
+        "info": "A T and T digital home phone service, formerly U-verse Voice, is the future of talk. When you sign up for a digital home phone plan you get these helpful features: call history, call screening, call forwarding, three-way calling, voicemail, voice-to-text. ",
+        "more": "Want to add or remove calling features? A T and T makes it simple; you can activate or deactivate most calling features by pressing a few buttons on your home phone’s keypad. You can also go online at att.com/uversecentral to easily manage all your A T and T Phone features. "
+    }
+    
+}
